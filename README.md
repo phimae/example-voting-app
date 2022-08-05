@@ -5,7 +5,7 @@ A simple distributed application running across multiple Docker containers.
 
 Getting started
 ---------------
-USE GITPOD INSTEAD
+USE GITPOD INSTEAD - IT'S MUCH BETTER
 
 Download [Docker Desktop](https://www.docker.com/products/docker-desktop) for Mac or Windows. [Docker Compose](https://docs.docker.com/compose) will be automatically installed. On Linux, make sure you have the latest version of [Compose](https://docs.docker.com/compose/install/). 
 
